@@ -197,7 +197,7 @@ I enjoy competitive programming because it pushes me to think about problems fro
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SayemTanvir/SayemTanvir/gh-pages/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/SayemTanvir/SayemTanvir/gh-pages/github-contribution-grid-snake-dark.svg">
 
 </div>
 
