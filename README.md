@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sayem Tanvir
+#  Hi, I'm Sayem Tanvir
 
 ### 💻 CSE Student passionate about solving problems and creating impactful projects
 
@@ -38,26 +38,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```cpp
-class SayemTanvir {
-public:
-    string role = "CSE Student";
-    vector<string> interests = {
-        "Competitive Programming",
-        "Data Structures & Algorithms",
-        "Software Development",
-        "Artificial Intelligence",
-        "Machine Learning"
-    };
-
-    string mindset = "Learn → Build → Break → Improve";
-
-    void currentFocus() {
-        cout << "Solving problems and building meaningful projects.";
-    }
-};
-```
 
 * 🎓 Computer Science & Engineering student at **BUET**
 * 🧠 Competitive Programming enthusiast
