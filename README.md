@@ -193,7 +193,7 @@ I enjoy competitive programming because it pushes me to think about problems fro
 
 ---
 
-## 🐍 Contributions
+# 🐍 Contributions
 
 <div align="center">
 
