@@ -56,12 +56,6 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
 </p>
 
-### ⚙️ Frameworks & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=javafx,react,nodejs,express,mongodb,mysql" />
-</p>
-
 ### 🔧 Tools & Environment
 
 <p>
