@@ -189,17 +189,19 @@ I enjoy competitive programming because it pushes me to think about problems fro
 
 </div>
 
+
+
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayemTanvir&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://raw.githubusercontent.com/SayemTanvir/SayemTanvir/output/github-contribution-grid-snake.svg" />
 
 </div>
 
-
+---
 
 # 📚 What I'm Working On
 
