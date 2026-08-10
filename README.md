@@ -20,7 +20,7 @@
   <a href="mailto:sayemtanvir341@gmail.com">
     <img src="https://img.shields.io/badge/Email-sayemtanvir341%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
+  <a href="https://www.linkedin.com/in/abu-sayem-mohammed-tanvir-5564483a7">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/1DRwLnVgdW/">
@@ -238,7 +238,7 @@ If you're interested in **software development, competitive programming, AI, or 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
+<a href="https://www.linkedin.com/in/abu-sayem-mohammed-tanvir-5564483a7">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
