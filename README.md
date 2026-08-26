@@ -113,7 +113,7 @@ A project focused on helping users make better decisions when buying or selling 
 **Tech:** `Python` `JavaScript` `AI/LLM` `Web Technologies`
 
 🔗 **Repository:**
-https://github.com/SayemTanvir/tech2
+https://github.com/takvir-tur/tech2
 
 ---
 
