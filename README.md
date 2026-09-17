@@ -68,7 +68,7 @@
 
 <div align="center">
 
-### 🩸 LIBERTAS VINCTA
+### 🎮 LIBERTAS VINCTA
 
 **2D Survival-Horror Game**
 
