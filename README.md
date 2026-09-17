@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Sayem Tanvir
+# Hi, I'm Sayem Tanvir
 
 ### 💻 CSE Student passionate about solving problems and creating impactful projects
 
@@ -59,12 +59,42 @@
 ### 🔧 Tools & Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea,docker,godot" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
+
+<div align="center">
+
+### 🩸 LIBERTAS VINCTA
+
+**2D Survival-Horror Game**
+
+</div>
+
+A tense 2D survival-horror exploration game built with **Godot 4.7**, featuring branching routes, enemy escalation, inventory systems, scripted interactions, and multiple endings.
+
+**Highlights**
+
+* 🏚️ Atmospheric survival-horror exploration
+* 🔀 Branching routes and progression
+* 👹 Dynamic enemy escalation
+* 🎒 Inventory and resource management
+* 🧠 State-based gameplay and scripted interactions
+* 🗝️ Puzzles, keys, letters and exploration
+* 🩸 Blood magic and special abilities
+* 🎭 Multiple endings and replayable routes
+* 💾 Save-state driven progression
+* 🎮 Playable Windows build
+
+**Tech:** `Godot` `GDScript` `2D Game Development`
+
+🔗 **Repository:**
+https://github.com/SayemTanvir/LIBERTAS-VINCTA
+
+---
 
 <div align="center">
 
@@ -179,8 +209,6 @@ I enjoy competitive programming because it pushes me to think about problems fro
 
 # 📊 GitHub Analytics
 
-
-
 <br>
 
 <div align="center">
@@ -188,8 +216,6 @@ I enjoy competitive programming because it pushes me to think about problems fro
 <img src="https://streak-stats.demolab.com?user=SayemTanvir&theme=tokyonight&hide_border=true" />
 
 </div>
-
-
 
 ---
 
@@ -211,6 +237,7 @@ Data Structures & Algo    ██████████████████
 Software Development      █████████████████░░░░░   Building Projects
 Python                    ██████████████░░░░░░░░   Learning
 AI / Machine Learning     ████████████░░░░░░░░░   Exploring
+Game Development          ██████████████░░░░░░░░   Building
 ```
 
 ---
@@ -230,7 +257,7 @@ AI / Machine Learning     ████████████░░░░░░
 
 <div align="center">
 
-If you're interested in **software development, competitive programming, AI, or building cool projects**, feel free to connect!
+If you're interested in **software development, competitive programming, AI, game development, or building cool projects**, feel free to connect!
 
 <br>
 
