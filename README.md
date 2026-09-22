@@ -74,7 +74,7 @@
 
 </div>
 
-A tense 2D survival-horror exploration game built with **Godot 4.7**, featuring branching routes, enemy escalation, inventory systems, scripted interactions, and multiple endings.
+A tense 2D survival-horror exploration game built with **Godot 4.7**, featuring branching routes, enemy escalation, inventory systems, scripted interactions, and multiple endings. Published and available on the **Microsoft Store**!
 
 **Highlights**
 
@@ -87,12 +87,15 @@ A tense 2D survival-horror exploration game built with **Godot 4.7**, featuring 
 * 🩸 Blood magic and special abilities
 * 🎭 Multiple endings and replayable routes
 * 💾 Save-state driven progression
-* 🎮 Playable Windows build
+* 🛒 Available on Microsoft Store & playable Windows build
 
 **Tech:** `Godot` `GDScript` `2D Game Development`
 
 🔗 **Repository:**
 https://github.com/SayemTanvir/LIBERTAS-VINCTA
+
+🛒 **Microsoft Store:**
+https://apps.microsoft.com/detail/9NPNK7VM8KDV?hl=en-us&gl=BD&ocid=pdpshare
 
 ---
 
